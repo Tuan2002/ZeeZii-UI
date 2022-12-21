@@ -10,7 +10,7 @@
 
     @include devicesResponsive(768px) {
         width: 100%;
-        top: calc(100% - 72px);
+        top: calc(100% - 80px);
         right: 0;
         left: 0;
 
@@ -33,7 +33,7 @@
         display: flex;
         justify-content: space-between;
         align-items: stretch;
-        padding: 8px;
+        padding: 8px 0;
     }
 
     padding: 16px;
