@@ -202,7 +202,7 @@
 
     .post-response {
         @include devicesResponsive(768px) {
-            font-size: 1.4rem;
+            font-size: 1.2rem;
         }
 
         margin-top: 16px;
@@ -255,7 +255,7 @@
 
     .post-actions {
         @include devicesResponsive(768px) {
-            font-size: 1.4rem;
+            font-size: 1.2rem;
         }
 
         padding: 4px 0;
